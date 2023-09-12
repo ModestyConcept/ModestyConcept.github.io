@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+	<script async src="https://cse.google.com/cse.js?cx=4057f0107f2b1450f"></script>
+</svelte:head>
+
+<div class="gcse-search" />
